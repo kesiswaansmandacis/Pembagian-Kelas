@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pembagian Kelas SMAN 2 Ciamis",
+  "description": "Sistem Informasi Penempatan Kelas Siswa Baru SMAN 2 Ciamis setelah kegiatan MPLS Pancawaluya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
